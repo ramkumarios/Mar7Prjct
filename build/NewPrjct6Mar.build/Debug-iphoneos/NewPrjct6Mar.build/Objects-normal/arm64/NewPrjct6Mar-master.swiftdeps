@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "2c587b66b4363b915001c37bc1b8d199fb5c3d6d1eedb45277ee13f1e99969c3"
+build_start_time: [1678106513, 287506103]
+build_end_time: [1678106513, 345613002]
+inputs:
+  "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewPrjct6Mar/NewPrjct6Mar/AppDelegate.swift": !private [1678084757, 0]
+  "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewPrjct6Mar/NewPrjct6Mar/SceneDelegate.swift": !private [1678084757, 0]
+  "/Users/tvpc000013/Desktop/Ajith Frnd Mar 6 Backup/NewPrjct6Mar/NewPrjct6Mar/ViewController.swift": !private [1678085351, 0]
